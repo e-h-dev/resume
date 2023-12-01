@@ -15,7 +15,7 @@ header {
 }
 
 .logo {
-    background: url("../images/id-image.jpg");
+    background: url("../images/main-image.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,11 +33,11 @@ header {
     color: #ffffff;
 }
 
-.title{
+.title {
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
     margin-bottom: 90px;
-    color:#ffffff;
+    color: #ffffff;
 }
